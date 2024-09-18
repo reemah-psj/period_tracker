@@ -14,16 +14,16 @@ A Python application that allows users to track their menstrual cycle, estimate 
 
 ### Installing
 
-    ```
-    git pull <repository-url>
-    ```
+   ```
+    git clone https://github.com/reemah-psj/period_tracker.git
+   ```
 
 
 ### 2. Run the Program
 
-    ```
-    python period_tracker.py
-    ```
+  ```
+     python period_tracker.py
+   ```
 
 ### 3. Removing the Program from Your PC
 
