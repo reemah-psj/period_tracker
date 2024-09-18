@@ -23,7 +23,7 @@ A Python application that allows users to track their menstrual cycle, estimate 
 
   ```
    python period_tracker.py
-   ```
+  ```
 
 ### 3. Removing the Program from Your PC
 
@@ -31,12 +31,12 @@ A Python application that allows users to track their menstrual cycle, estimate 
 
 1. On Mac or Linux
    
-    ```
-    rm -r period-tracker
-    ```
+ ```
+   rm -r period-tracker
+ ```
 
 2. On Windows:
 
 ```
-rmdir /s period-tracker
+ rmdir /s period-tracker
 ```
